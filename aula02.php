@@ -1,1 +1,5 @@
-ECHO est  ativado.
+<?php
+
+echo "Aula02.php";
+
+?>
